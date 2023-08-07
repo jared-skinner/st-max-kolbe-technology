@@ -59,7 +59,7 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ### [Responding to Online Hate Speech](responding_to_online_hate_speech.md)
 
-### [Research 1](research_1,md)
+### [Research 1](research_1.md)
 
 ### [Scratch Programming 4](scratch_4.md)
 
