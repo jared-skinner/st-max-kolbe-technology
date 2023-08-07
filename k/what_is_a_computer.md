@@ -1,6 +1,6 @@
 # What is a Computer?
 
-## Goals:
+## Goals
 
 * Be able to define what a computer is
 * Be able to give both standard and non-standard examples of a computer

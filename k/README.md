@@ -1,6 +1,6 @@
 # K Curriculum
 
-Target 20 lessons: 10 for fall semester and 10 for spring semester
+Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ## Goals
 
@@ -40,11 +40,11 @@ Target 20 lessons: 10 for fall semester and 10 for spring semester
 
 ### [What is a computer?](what_is_a_computer.md)
 
-### How to use a Track Pad 1
+### [How to use a Track Pad 1](how_to_use_a_track_pad_1.md)
 
 ### [Pause for People](pause_for_people.md)
 
-### Parts of a computer
+### [Parts of a computer](parts_of_a_computer.md)
 
 ### How to use a Track Pad 2
 

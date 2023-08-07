@@ -1,6 +1,6 @@
 # Pause for People
 
-## Goals:
+## Goals
 
 * Learn why it's important to be aware and respectful of people while using devices.
 
