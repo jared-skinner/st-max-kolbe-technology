@@ -40,7 +40,7 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ### [Scratch Programming 2](scratch_2.md)
 
-### [Social Media and Digital Footprints: Our Responsibilities](social_media_and_digital_footprints,md)
+### [Social Media and Digital Footprints: Our Responsibilities](social_media_and_digital_footprints.md)
 
 ### [Excel 2](excel_2.md)
 
