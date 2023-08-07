@@ -34,15 +34,11 @@ Target 20 lessons: 10 for fall semester and 10 for spring semester
 
 * Media Balance is Important
 
-
-
-
-
 ---
 
 ## Lessons - Fall
 
-### What is a computer?
+### [What is a computer?](what_is_a_computer.md)
 
 ### How to use a Track Pad 1
 
@@ -58,18 +54,21 @@ https://www.commonsense.org/education/digital-citizenship/lesson/safety-in-my-on
 
 ### What is electricity?
 
+### Making a Game in Scratch
+
+### Playing the Game from Scratch
+
+
+## Lessons - Spring
+
 ### How to Navigate an Application 1
 
 ### Media Balance is Important
 https://www.commonsense.org/education/digital-citizenship/lesson/media-balance-is-important
 
-
-
-## Lessons - Spring
-
 ### How do Screens work?
 
-### How to Navigate an Application 1
+### How to Navigate an Application 2
 
 ### Keyboards + Typing 1
 
@@ -79,4 +78,4 @@ https://www.commonsense.org/education/digital-citizenship/lesson/media-balance-i
 
 ### What is a Computer Program?
 
-
+### Physical Computing
