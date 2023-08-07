@@ -13,8 +13,33 @@
 
 * [Power Point (TODO)]()
 
-* [Game](TODO)
+* [Games (TODO)]()
 
 ## Lesson Plan
 
-TODO
+### Introduction (10 - 15 mins)
+
+* What is an input?
+
+* Different types of Mice 
+  * Standard
+  * Track Pad
+  * Nub
+  * Ball
+
+* Types of Clicks
+  * Left (Primary)
+  * Right (Secondary)
+  * Middle
+  * Scroll
+
+* How to move a mouse
+
+### Activity (5 - 10 mins)
+
+* Simon Says with mouse clicks
+
+
+### Games (20 - 25 mins)
+
+* TODO
