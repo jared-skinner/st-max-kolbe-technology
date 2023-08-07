@@ -9,8 +9,13 @@
 
 ## Materials
 
-* [PowerPoint (TODO)](LINK HERE)
-* [Coloring Sheets (TODO)](Link here)
+* [PowerPoint](https://docs.google.com/presentation/d/1_3aw8DpOUFEK-4vS20a07M-AX_aPeEDW-9y9JYE4cK8/edit?usp=sharing)
+
+* Coloring Sheets
+  * [Scientist](https://www.midjourney.com/app/jobs/db876e84-7e17-4f94-b141-ed278734cc36/)
+  * [Server Room](https://www.midjourney.com/app/jobs/6ce7be23-2df3-4460-8464-ac618cc44041/)
+  * [Laptop](https://www.midjourney.com/app/jobs/beedd0b1-27da-4e57-9990-7ffa47cc928e/)
+  * [PCB](https://www.midjourney.com/app/jobs/eec0eee6-af2c-4d0a-ada9-1b38361a5b66/)
 
 ## Lesson Plan
 
@@ -33,6 +38,10 @@
   * Micro Controller
   * Phone
   * Server/Supercomputer
+
+* A Computer is not...
+  * A screen
+  * A Keyboard
 
 * Pass around Components
   * Mother Board
