@@ -1,6 +1,8 @@
 # St. Max Technology
 
 
+## Mission Statement
+
 ## Goals
 
 * Learn important skills
