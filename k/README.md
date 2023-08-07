@@ -8,9 +8,7 @@ Target 20 lessons: 10 for fall semester and 10 for spring semester
 
 * How to use a track pad
 
-* How to open an application, parts of an application
-
-* How to login
+* How to Navigate an Application
 
 * Parts of a keyboard, typing
 
@@ -22,16 +20,23 @@ Target 20 lessons: 10 for fall semester and 10 for spring semester
 
 * What is electricity?
 
-### Understand how to use technology appropriately
+* How do Screens Work?
+
+* What is the internet?
+
+* What is a Computer Program?
+
+### Understand how to use technology appropriately (Digital Citizenship)
 
 * Pause for People 
-https://www.commonsense.org/education/digital-citizenship/lesson/pause-for-people
 
 * Safety in my Online Neighborhood
-https://www.commonsense.org/education/digital-citizenship/lesson/safety-in-my-online-neighborhood
 
 * Media Balance is Important
-https://www.commonsense.org/education/digital-citizenship/lesson/media-balance-is-important
+
+
+
+
 
 ---
 
@@ -39,44 +44,39 @@ https://www.commonsense.org/education/digital-citizenship/lesson/media-balance-i
 
 ### What is a computer?
 
-### How to use a track pad
+### How to use a Track Pad 1
 
 ### Pause for People
+https://www.commonsense.org/education/digital-citizenship/lesson/pause-for-people
 
 ### Parts of a computer
 
-### How to open an application
+### How to use a Track Pad 2
 
 ### Safety in my Online Neighborhood
+https://www.commonsense.org/education/digital-citizenship/lesson/safety-in-my-online-neighborhood
 
 ### What is electricity?
 
-### Keyboards + Typing
+### How to Navigate an Application 1
 
 ### Media Balance is Important
+https://www.commonsense.org/education/digital-citizenship/lesson/media-balance-is-important
+
 
 
 ## Lessons - Spring
 
+### How do Screens work?
 
+### How to Navigate an Application 1
 
+### Keyboards + Typing 1
 
+### What is the internet?
 
+### Keyboards + Typing 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### What is a Computer Program?
 
 
