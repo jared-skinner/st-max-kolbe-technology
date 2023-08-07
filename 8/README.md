@@ -28,42 +28,42 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ## Lessons - Fall
 
-### [How Networking Works]()
+### [How Networking Works](how_networking_works.md)
 
-### [Digital Media and Your Brain]()
+### [Digital Media and Your Brain](digital_media_and_your_brain.md)
 
-### [Scratch Programming 1]()
+### [Scratch Programming 1](scratch_1.md)
 
-### [Excel 1]()
+### [Excel 1](excel_1.md)
 
-### [Being Aware of What You Share]()
+### [Being Aware of What You Share](being_aware_of_what_you_share.md)
 
-### [Scratch Programming 2]()
+### [Scratch Programming 2](scratch_2.md)
 
-### [Social Media and Digital Footprints: Our Responsibilities]()
+### [Social Media and Digital Footprints: Our Responsibilities](social_media_and_digital_footprints,md)
 
-### [Excel 2]()
+### [Excel 2](excel_2.md)
 
-### [The Right to Repair - With 7th Grade]()
+### [The Right to Repair - With 7th Grade](the_right_to_repair.md)
 
 
 ## Lessons - Spring
 
-### [Physical Computing]()
+### [Physical Computing](physical_computing.md)
 
-### [Chatting and Red Flags]()
+### [Chatting and Red Flags](chatting_and_red_flags.md)
 
-### [AI and Academic Honesty]()
+### [AI and Academic Honesty](ai_and_academic_honesty.md)
 
-### [Scratch Programming 3]()
+### [Scratch Programming 3](scratch_3.md)
 
-### [Responding to Online Hate Speech]()
+### [Responding to Online Hate Speech](responding_to_online_hate_speech.md)
 
-### [Research 1]()
+### [Research 1](research_1,md)
 
-### [Scratch Programming 4]()
+### [Scratch Programming 4](scratch_4.md)
 
-### [This Just In!]()
+### [This Just In!](this_just_in.md)
 
-### [Research 2]()
+### [Research 2](research_2.md)
 
