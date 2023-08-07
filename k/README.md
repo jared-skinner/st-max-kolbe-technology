@@ -42,8 +42,7 @@ Target 20 lessons: 10 for fall semester and 10 for spring semester
 
 ### How to use a Track Pad 1
 
-### Pause for People
-https://www.commonsense.org/education/digital-citizenship/lesson/pause-for-people
+### [Pause for People](pause_for_people.md)
 
 ### Parts of a computer
 
