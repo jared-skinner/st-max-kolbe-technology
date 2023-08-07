@@ -46,16 +46,15 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ### [Parts of a computer](parts_of_a_computer.md)
 
-### How to use a Track Pad 2
+### [How to use a Track Pad 2](how_to_use_a_track_pad_2.md)
 
-### Safety in my Online Neighborhood
-https://www.commonsense.org/education/digital-citizenship/lesson/safety-in-my-online-neighborhood
+### [Safety in my Online Neighborhood](safety_in_my_online_neighborhood.md)
 
-### What is electricity?
+### [What is electricity?](what_is_electricity.md)
 
-### Making a Game in Scratch
+### [Making a Game in Scratch](making_a_game_in_scratch.md)
 
-### Playing the Game from Scratch
+### [Playing the Game from Scratch](playing_a_game_in_scratch.md)
 
 
 ## Lessons - Spring
