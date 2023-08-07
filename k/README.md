@@ -59,21 +59,20 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ## Lessons - Spring
 
-### How to Navigate an Application 1
+### [How to Navigate an Application 1](how_to_navigate_an_application_1.md)
 
-### Media Balance is Important
-https://www.commonsense.org/education/digital-citizenship/lesson/media-balance-is-important
+### [Media Balance is Important](media_balance_is_important.md)
 
-### How do Screens work?
+### [How do Screens work?](how_do_screens_work.md)
 
-### How to Navigate an Application 2
+### [How to Navigate an Application 2](how_to_navigate_an_application_2.md)
 
-### Keyboards + Typing 1
+### [Keyboards + Typing 1](keyboards_and_typing_1.md)
 
-### What is the internet?
+### [What is the internet?](what_is_the_internet.md)
 
-### Keyboards + Typing 2
+### [Keyboards + Typing 2](keyboards_and_typing_2.md)
 
-### What is a Computer Program?
+### [What is a Computer Program?](what_is_a_computer_program.md)
 
-### Physical Computing
+### [Physical Computing](physical_computing.md)
