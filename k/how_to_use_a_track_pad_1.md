@@ -11,7 +11,7 @@
 
 ## Materials
 
-* [Power Point (TODO)]()
+* [Power Point](https://docs.google.com/presentation/d/1_Cuf3EEXpZULXkQKlY8ovDnbTkksH1VgWqCoDMwKU5A/edit#slide=id.p)
 
 * [Games (TODO)]()
 
