@@ -1,6 +1,11 @@
 # K Curriculum
 
-Target 18 lessons: 9 for fall semester and 9 for spring semester
+The first few years of technology are a bit tricky.  The kids are super excited to jump in to using the computers but they are missing the foundational skills required to enjoy the experience.  
+
+The goals for this year are to spend time building the foundational skills, give an introduction to boundaries on the computer, and learn some interesting things about how computers function.  The goal of this last point is really to draw a sense of wonder or appreciation for the magnitude of what is crammed into the little boxes we interact with every day.
+
+As far as activities on the computer are concerned, kids have a very hard time navigating to websites.  I will add a link to the chrome homepage which should help with this, but it is still a hurdle.  I will likely need help getting kids setup on days when we are using our computers.
+
 
 ## Goals
 
