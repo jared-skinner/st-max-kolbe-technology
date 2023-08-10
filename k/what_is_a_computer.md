@@ -11,6 +11,18 @@
 
 * [PowerPoint](https://docs.google.com/presentation/d/1_3aw8DpOUFEK-4vS20a07M-AX_aPeEDW-9y9JYE4cK8/edit?usp=sharing)
 
+* Paper
+
+* Scissors
+
+* Raspberry Pi
+
+* Binary
+
+* Motherboard
+
+* Calculator
+
 * Coloring Sheets
   * [Scientist](https://www.midjourney.com/app/jobs/db876e84-7e17-4f94-b141-ed278734cc36/)
   * [Server Room](https://www.midjourney.com/app/jobs/6ce7be23-2df3-4460-8464-ac618cc44041/)
@@ -28,8 +40,12 @@
   * Good at following instructions
 
 * What are computers bad at?
-  * Thinking for themselves
-  * Doing Multiple things at once
+  * Thinking for themselves - try talking to a computer, bring up text box and ask question
+    * Mention AI
+  * Doing Multiple things at once 
+    * Demonstrate a computer doing multiple things at once
+    * Ask why computers seem like they can do multiple things as once
+    * cut out two pieces of paper
 
 * Give examples of computers
   * Laptop
@@ -60,7 +76,6 @@
 * Mechanical Computers
 * Touring and Enigma
 * Computers use to be slow!
-* Moor's Law
 
 ### What makes up a computer? (5 - 10 mins)
 
