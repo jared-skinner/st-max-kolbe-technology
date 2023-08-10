@@ -1,4 +1,4 @@
-# How to Use a Track Pad
+# How to Use a Track Pad 1
 
 ## Goals
 
@@ -12,6 +12,8 @@
 ## Materials
 
 * [Power Point](https://docs.google.com/presentation/d/1_Cuf3EEXpZULXkQKlY8ovDnbTkksH1VgWqCoDMwKU5A/edit#slide=id.p)
+
+* Mouse
 
 * [Games (TODO)]()
 

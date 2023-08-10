@@ -1,4 +1,4 @@
-# How to Use a Track Pad
+# How to Use a Track Pad 2
 
 ## Goals
 

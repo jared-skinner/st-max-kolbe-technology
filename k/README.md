@@ -66,7 +66,7 @@ As far as activities on the computer are concerned, kids have a very hard time n
 
 ### [How to Navigate an Application 1 (WIP)](how_to_navigate_an_application_1.md)
 
-### [Media Balance is Important (WIP)](media_balance_is_important.md)
+### [Media Balance is Important](media_balance_is_important.md)
 
 ### [How do Screens work? (WIP)](how_do_screens_work.md)
 
